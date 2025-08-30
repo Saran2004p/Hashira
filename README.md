@@ -27,7 +27,8 @@ It reconstructs the original secret using provided share values in different bas
 javac ShamirSolver.java
 
 ### 2. Run with Input
-java ShamirSolver < input1.json 
+java ShamirSolver < input1.json
+
 java ShamirSolver < input2.json 
 
 ### 3. Example Output
